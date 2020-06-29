@@ -46,11 +46,7 @@ def sample_file_parser(file, original):
         print("Error: File does not appear to exist.")
         return 0
 
-
-# origin_file_path = input('Enter path to the sample file ')
-# other_sample_file_path = input('Enter path to the sample file ')
-# origin_element_id = input('Enter origin element id ')
-
+    
 other_samples_file_paths = ['pages/sample-1-evil-gemini.html', 'pages/sample-2-container-and-clone.html',
                             'pages/sample-3-the-escape.html', 'pages/sample-4-the-mash.html']
 
